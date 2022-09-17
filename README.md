@@ -15,7 +15,7 @@ https://sahil-sayyad.github.io/HTML-CSS--Portfolio/
 
 
 
-![](hhttps://github.com/Sahil-Sayyad/HTML-CSS--Portfolio/blob/8a2d148e04a70ef4bf4b342c4807ca5ef8ebb459/images/Webcapture.jpeg)
+![](https://github.com/Sahil-Sayyad/HTML-CSS--Portfolio/blob/8a2d148e04a70ef4bf4b342c4807ca5ef8ebb459/images/Webcapture.jpeg)
 
 
 ## Build With
